@@ -27,7 +27,7 @@ Download the ".deb" files for 22.04.01.
 
 These files can be packaged into their own archive. The files can be installed by executing each file individually.
 
-It is recommended to not install the files that state "open". It is also recommended to not install the files that state "headless" depending on whether usage of X11 or Wayland is planned. Read the descriptions of the files before installing them.
+The files that state "open" are not recommended to install. There are also other files that are not recommended to install depending on whether usage of X11 or Wayland is planned. Read the descriptions of the files before installing them.
 
 Open a command-line window and type the following:
 
