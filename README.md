@@ -3,7 +3,7 @@ This is a guide to having an offline package of NVIDIA proprietary drivers for L
 
 Since this guide pertains to NVIDIA drivers, packages will not be provided. This repository is just a README.md describing the process of creating an offline package of NVIDIA proprietary drivers for Linux.
 
-The following packages will be obtained in following example:
+The packages that will be obtained in following example:
 
 nvidia-graphics-drivers-535 (535.54.03)
 
@@ -19,7 +19,7 @@ Main URL: http://87.238.33.18/ubuntu/pool/multiverse/n/
 
 Scroll down the page until the NVIDIA drivers are seen.
 
-The following example is for nvidia-drivers-535:
+The following example is for nvidia-graphics-drivers-535:
 
 nvidia-graphics-drivers-535 URL: http://87.238.33.18/ubuntu/pool/multiverse/n/nvidia-graphics-drivers-535/
 
