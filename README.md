@@ -5,7 +5,7 @@ Since this guide pertains to NVIDIA drivers, packages will not be provided. This
 
 The following packages will be obtained in following example:
 
-nvidia-drivers-535 (535.54.03)
+nvidia-graphics-drivers-535 (535.54.03)
 
 nvidia-settings
 
@@ -21,7 +21,7 @@ Scroll down the page until the NVIDIA drivers are seen.
 
 The following example is for nvidia-drivers-535:
 
-nvidia-drivers-535 URL: http://87.238.33.18/ubuntu/pool/multiverse/n/nvidia-graphics-drivers-535/
+nvidia-graphics-drivers-535 URL: http://87.238.33.18/ubuntu/pool/multiverse/n/nvidia-graphics-drivers-535/
 
 Download the ".deb" files for 22.04.01.
 
